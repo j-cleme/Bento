@@ -65,21 +65,21 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.proton.me/u/0/',
-		},
-		{
-			id: '4',
 			name: 'Tools',
 			icon: 'wrench',
 			link: 'https://mdigi.tools/',
 		},
 		{
-			id: '5',
+			id: '4',
 			name: 'Mail2',
 			icon: 'mail',
 			link: 'https://mail.google.com/',
+		},
+		{
+			id: '5',
+			name: 'Calendar',
+			icon: 'calendar',
+			link: 'https://calendar.proton.me/u/0/',
 		},
 		{
 			id: '6',
