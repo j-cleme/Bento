@@ -147,7 +147,7 @@ const CONFIG = {
 					link: 'https://www.youtube.com/playlist?list=PL1Dm6N2QRmAkw5j-TSjiG9klyIKybppub',
 				},
 				{
-					name: 'Final Federated States of Micronesia',
+					name: 'last.fm',
 					link: 'https://www.last.fm/',
 				},
 				{
